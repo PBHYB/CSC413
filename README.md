@@ -1,1 +1,1 @@
-# CSC413
+# CSC413 Course Project
