@@ -1,5 +1,6 @@
 # CSC413 Course Project
 
+- Install `virtualenv`: `pip install virtualenv`
 - Create virtualenv: `python -m venv venv`
 - Activate venv:
     - Windows: `venv\Scripts\activate`
