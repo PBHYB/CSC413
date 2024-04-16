@@ -13,7 +13,10 @@ We are using the kaggle API to obtain the data. Before you run the following com
 - Install data: `kaggle competitions download -c planttraits2024`
 
 ### How to run on remote:
-set up the virtual enviornment and then run this command
+use `pip install virtualenv` to install virtual enviornment.
+use `virtualenv 413` & `source 413/bin/activate` to build up your virtual env.
+run `pip install -r requirements.txt` to install dependencies.
+run this command to run your model.
 ```
  srun -p csc401 --gres gpu python model.py
 ```
