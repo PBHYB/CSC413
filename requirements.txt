@@ -1,9 +1,0 @@
-opencv-python
-pandas
-joblib
-matplotlib
-tensorflow
-keras
-keras_cv
-scikit-learn
-kaggle
